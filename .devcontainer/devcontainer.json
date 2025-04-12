@@ -22,7 +22,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"sourcegraph.cody-ai",
+				"google.geminicodeassist",
 				"ms-python.python",
 				"mongodb.mongodb-vscode"
 			],
